@@ -1,0 +1,40 @@
+{
+  "name": "revoact-skills",
+  "version": "1.0.0",
+  "description": "AI-powered documentation skills for modern development workflows. Generate PRDs, Architecture docs, Design specs, Roadmaps, READMEs, and Security reviews through interactive AI interviews.",
+  "keywords": [
+    "ai",
+    "vibe-coding",
+    "documentation",
+    "prd",
+    "architecture",
+    "design-doc",
+    "roadmap",
+    "security",
+    "claude",
+    "antigravity",
+    "gemini",
+    "skills",
+    "agent-skills",
+    "llm",
+    "developer-tools"
+  ],
+  "author": "Revoact",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "bin": {
+    "revoact": "bin/revoact.js"
+  },
+  "files": [
+    "bin/",
+    "skills/",
+    "README.md",
+    "LICENSE"
+  ],
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
