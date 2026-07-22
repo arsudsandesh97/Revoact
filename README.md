@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Revoact%20Logo.png" alt="Revoact Logo" width="380" />
+  <img src="https://raw.githubusercontent.com/arsudsandesh97/Revoact/main/Revoact%20Logo.png" alt="Revoact Logo" width="380" />
 </p>
 
 <h1 align="center">Revoact — Vibe Coding Skill Pack</h1>

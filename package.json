@@ -1,6 +1,6 @@
 {
   "name": "revoact-skills",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "AI-powered documentation skills for modern development workflows. Generate PRDs, Architecture docs, Design specs, Roadmaps, READMEs, and Security reviews through interactive AI interviews.",
   "keywords": [
     "ai",
